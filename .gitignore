@@ -13,6 +13,7 @@ build/
 coverage/
 
 # Environment / secrets
+config/
 .env
 .env.local
 .env.*.local
